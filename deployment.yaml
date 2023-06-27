@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: londe2023abhi/packages:10
+      - image: londe2023abhi/packages:11
         name: myapp
         resources: {}
 status: {}
